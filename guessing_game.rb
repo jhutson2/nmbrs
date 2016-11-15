@@ -1,6 +1,4 @@
 puts "You pick the range."
-
-#array name.include?
 computer_number = rand(1..100)
 p computer_number
 count = 5
